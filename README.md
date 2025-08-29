@@ -60,4 +60,4 @@ This project manages garment stock operations efficiently.
 ![Add Stock](assets/screenshot2.png)  
 
 ### 3. Stock Retrieve Form 
-![App Demo](assets/screenshot3.png)
+![App Demo](assets/assets/screenshot3.png)
