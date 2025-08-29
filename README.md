@@ -45,3 +45,19 @@ This is the Stock Management Module of the Garment Management System. It is desi
            Database: MongoDB
            AI/Prediction: Gemini 2.5 Pro API          
            Other: Retrofit (for Android API calls)
+
+
+  # Garment Stock Management System  
+
+This project manages garment stock operations efficiently.  
+
+## 📸 Screenshots  
+
+### 1. Dashboard  
+![Dashboard](assets/screenshot1.png)  
+
+### 2. Stock Add Form  
+![Add Stock](assets/screenshot2.png)  
+
+### 3. Android App Demo  
+![App Demo](assets/screenshot3.png)
