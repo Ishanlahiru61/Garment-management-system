@@ -1,4 +1,4 @@
-Garment Stock Management System
+Garment Stock Management System 
 
 This is the Stock Management Module of the Garment Management System. It is designed to simplify inventory operations for medium-scale garment businesses by allowing users to efficiently add, track, retrieve, and analyze stock.
 
